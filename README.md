@@ -1,4 +1,4 @@
-Profile under construction
+## Profile under construction...
 # 💫 About Me:
 I'm a Software Engineer on a journey to become a Full Stack Developer. I've recently reviewed JavaScript and am currently advancing my skills in React.js, while starting to explore Backend development with ASP.NET MVC and APIs. I enjoy building modern web applications and continuously pushing my skills forward.
 
