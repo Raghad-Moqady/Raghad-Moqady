@@ -1,4 +1,3 @@
-## Profile under construction...
 # 💫 About Me:
 Hi! I'm **Raghad Moqady** 👩‍💻  
 A passionate **Software Engineer** on a journey to become a **Full Stack Developer** 🚀  
