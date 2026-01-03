@@ -2,7 +2,7 @@
 Hi! I'm **Raghad Moqady** 👩‍💻  
 A passionate **Software Engineer** on a journey to become a **Full Stack Developer** 🚀  
 I enjoy **building modern web applications** and constantly pushing my skills forward ✨✨  
-*"Always learning, and growing every day."* 🌱
+*"Always learning & growing every day."* 🌱
 
 # 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghad-moqady) 
