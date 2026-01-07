@@ -49,6 +49,8 @@ I enjoy **building modern web applications** and constantly pushing my skills fo
 ![](https://github-readme-stats.vercel.app/api?username=Raghad-Moqady&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Raghad-Moqady&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Moqady&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🌱 My Coding Garden
+![My Coding Garden](https://raw.githubusercontent.com/Raghad-Moqady/Raghad-Moqady/main/github-metrics.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raghad-Moqady&icon=2&color=12)](https://visitcount.itsvg.in)
