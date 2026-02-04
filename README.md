@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm **Raghad Moqady** 👩‍💻  
-A passionate **Software Engineer** on a journey to become a **Full Stack Developer** 🚀  
+A passionate **Computer Systems Engineer** on a journey to become a **Full Stack Developer** 🚀  
 I enjoy **building modern web applications** and constantly pushing my skills forward ✨✨  
 *"Always learning & growing every day."* 🌱
 
